@@ -15,5 +15,7 @@ Press Ctrl +letter x to exit the file.
 
 In the terminal, type nano ~/.bashrc then press Enter. 
 Type source ~/.bashrc then press Enter. 
+Type which alr
+
 
 
