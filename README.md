@@ -3,22 +3,34 @@
 
 Below is a step-by-step download of ALIRE on Ubuntu software that I did in my programming class, guided by my lecturer. 
 
-I first searched (AdaCore Gnat Academic Program -https://github.com/GNAT-Academic-Program) on the browser. 
+I first searched on the browser and clicked the following link (AdaCore Gnat Academic Program -https://github.com/GNAT-Academic-Program).
 
 
-Download and unzip the file (https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-x86_64-linux.zip).
-Copy the file from the download's section to home.
+I then downloaded the file on the website using the link (https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-x86_64-linux.zip)and extracted it.
+Next, I copied the file from the download's section to home.
 
-Open the terminal.
-Type 'nano ~/.bashrc' and press 'Enter'. Copy the file from home. 
-Type export PATH="${PATH}:(paste the copied file here) then type :$PATH" 
-Press Ctrl+letter O and press Enter to save the file.
+I then opened the terminal.
+Typed 'nano ~/.bashrc' and pressed 'Enter'. Copied the file from home. 
+Typed export PATH="${PATH}:(paste the copied file here) then typed :$PATH" 
+Pressed Ctrl+letter O and pressed Enter to save the file.
 Press Ctrl +letter x to exit the file.
 
-In the terminal, type nano ~/.bashrc then press Enter. 
-Type source ~/.bashrc then press Enter. 
-Type 'which alr' press enter.
-Type alr then press enter.
+In the terminal, typed nano ~/.bashrc then pressed Enter. 
+Typed source ~/.bashrc then pressed Enter. 
+Typed 'which alr' pressed enter.
+Typed alr then pressed enter.
+Typed alr --help, pressed Enter.
+Typed alr init --bin myproj.
+Wrote the names of the group members.
+After the myproj was initialised successfully, I typed cd myproj, pressed Enter.
+Typed ls then pressed Enter. Response was: No such file or directory.
+Then I typed alr build and pressed Enter.
+
+From there, the command given was if i wanted to install AlIRE? (Y/N)
+I typed Y then another command came up; which was to press Enter to continue or Ctrl+C to abort. I chose Enter.
+The installation started and after a few seconds, the it was successfully installed. 
+
+
 
 
 
