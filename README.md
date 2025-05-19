@@ -3,7 +3,8 @@
 
 Below is a step-by-step download of ALIRE on Ubuntu software that I did in my programming class, guided by my lecturer. 
 
-I first searched on the browser and clicked the following link (AdaCore Gnat Academic Program -https://github.com/GNAT-Academic-Program).
+I first searched on the browser and clicked the following link (AdaCore Gnat Academic Program -https://github.com/GNAT-Academic-Program). 
+
 
 
 I then downloaded the file on the website using the link (https://github.com/alire-project/alire/releases/download/v2.0.2/alr-2.0.2-bin-x86_64-linux.zip)and extracted it.
