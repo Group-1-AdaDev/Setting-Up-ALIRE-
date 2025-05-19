@@ -23,12 +23,12 @@ Typed alr --help, pressed Enter.
 Typed alr init --bin myproj.
 Wrote the names of the group members.
 After the myproj was initialised successfully, I typed cd myproj, pressed Enter.
-Typed ls then pressed Enter. Response was: No such file or directory.
+Typed Ls then pressed Enter. Response was: No such file or directory.
 Then I typed alr build and pressed Enter.
 
 From there, the command given was if i wanted to install AlIRE? (Y/N)
 I typed Y then another command came up; which was to press Enter to continue or Ctrl+C to abort. I chose Enter.
-The installation started and after a few seconds, the it was successfully installed. 
+The installation started and after a few seconds, then it was successfully installed. 
 
 
 
